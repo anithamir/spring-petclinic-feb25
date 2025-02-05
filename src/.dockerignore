@@ -19,6 +19,5 @@ k8s/
 .git/
 .gitignore
 # Ignore any other unnecessary files or directories
-Dockerfile
 README.md
 
